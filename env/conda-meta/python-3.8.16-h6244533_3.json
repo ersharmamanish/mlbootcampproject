@@ -11,7 +11,7 @@
     "vs2015_runtime >=14.16.27012,<15.0a0",
     "pip"
   ],
-  "extracted_package_dir": "C:\\Users\\DELL\\anaconda3\\pkgs\\python-3.8.16-h6244533_3",
+  "extracted_package_dir": "C:\\Users\\DELL\\.conda\\pkgs\\python-3.8.16-h6244533_3",
   "features": "",
   "files": [
     "DLLs/_asyncio.pyd",
@@ -3587,20 +3587,19 @@
     "tcl/tk86t.lib",
     "tcl/tkstub86.lib",
     "venvlauncher.exe",
-    "venvwlauncher.exe",
-    ".nonadmin"
+    "venvwlauncher.exe"
   ],
   "fn": "python-3.8.16-h6244533_3.conda",
   "legacy_bz2_md5": "2ca00a8a29e798486d70c196790b3e0f",
   "license": "PSF-2.0",
   "license_family": "PSF",
   "link": {
-    "source": "C:\\Users\\DELL\\anaconda3\\pkgs\\python-3.8.16-h6244533_3",
+    "source": "C:\\Users\\DELL\\.conda\\pkgs\\python-3.8.16-h6244533_3",
     "type": 1
   },
   "md5": "99257c97f8acd3d7393ab3f413a501aa",
   "name": "python",
-  "package_tarball_full_path": "C:\\Users\\DELL\\anaconda3\\pkgs\\python-3.8.16-h6244533_3.conda",
+  "package_tarball_full_path": "C:\\Users\\DELL\\.conda\\pkgs\\python-3.8.16-h6244533_3.conda",
   "paths_data": {
     "paths": [
       {

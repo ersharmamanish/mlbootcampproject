@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.8,<3.9.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\DELL\\anaconda3\\pkgs\\setuptools-66.0.0-py38haa95532_0",
+  "extracted_package_dir": "C:\\Users\\DELL\\.conda\\pkgs\\setuptools-66.0.0-py38haa95532_0",
   "features": "",
   "files": [
     "Lib/site-packages/_distutils_hack/__init__.py",
@@ -490,20 +490,19 @@
     "Lib/site-packages/setuptools/unicode_utils.py",
     "Lib/site-packages/setuptools/version.py",
     "Lib/site-packages/setuptools/wheel.py",
-    "Lib/site-packages/setuptools/windows_support.py",
-    ".nonadmin"
+    "Lib/site-packages/setuptools/windows_support.py"
   ],
   "fn": "setuptools-66.0.0-py38haa95532_0.conda",
   "legacy_bz2_md5": "c4f8f6186adc01e7ac727e8c1b0f2e1b",
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "C:\\Users\\DELL\\anaconda3\\pkgs\\setuptools-66.0.0-py38haa95532_0",
+    "source": "C:\\Users\\DELL\\.conda\\pkgs\\setuptools-66.0.0-py38haa95532_0",
     "type": 1
   },
   "md5": "ffc5666aa424f8c44831b7343f5c109b",
   "name": "setuptools",
-  "package_tarball_full_path": "C:\\Users\\DELL\\anaconda3\\pkgs\\setuptools-66.0.0-py38haa95532_0.conda",
+  "package_tarball_full_path": "C:\\Users\\DELL\\.conda\\pkgs\\setuptools-66.0.0-py38haa95532_0.conda",
   "paths_data": {
     "paths": [
       {

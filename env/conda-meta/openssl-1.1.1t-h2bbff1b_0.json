@@ -8,7 +8,7 @@
     "vc >=14.1,<15.0a0",
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\DELL\\anaconda3\\pkgs\\openssl-1.1.1t-h2bbff1b_0",
+  "extracted_package_dir": "C:\\Users\\DELL\\.conda\\pkgs\\openssl-1.1.1t-h2bbff1b_0",
   "features": "",
   "files": [
     "Library/bin/c_rehash.pl",
@@ -136,20 +136,19 @@
     "Library/ssl/misc/CA.pl",
     "Library/ssl/misc/tsget.pl",
     "Library/ssl/openssl.cnf",
-    "Library/ssl/openssl.cnf.dist",
-    ".nonadmin"
+    "Library/ssl/openssl.cnf.dist"
   ],
   "fn": "openssl-1.1.1t-h2bbff1b_0.conda",
   "legacy_bz2_md5": "7a9bc26e467d379e3ca8bae79709c450",
   "license": "OpenSSL",
   "license_family": "Apache",
   "link": {
-    "source": "C:\\Users\\DELL\\anaconda3\\pkgs\\openssl-1.1.1t-h2bbff1b_0",
+    "source": "C:\\Users\\DELL\\.conda\\pkgs\\openssl-1.1.1t-h2bbff1b_0",
     "type": 1
   },
   "md5": "82ead46f7c0f0b12f41ebc118d38973e",
   "name": "openssl",
-  "package_tarball_full_path": "C:\\Users\\DELL\\anaconda3\\pkgs\\openssl-1.1.1t-h2bbff1b_0.conda",
+  "package_tarball_full_path": "C:\\Users\\DELL\\.conda\\pkgs\\openssl-1.1.1t-h2bbff1b_0.conda",
   "paths_data": {
     "paths": [
       {
