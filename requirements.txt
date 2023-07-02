@@ -5,5 +5,7 @@ matplotlip
 flask
 ipykernel
 seaborn
+scikit-learn
+
 
 -e .
